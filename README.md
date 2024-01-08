@@ -1,7 +1,9 @@
 ### Hi I am Rasil Laksika👋
 
 I am 24 years old.
-The name of my school is Kalutara Vidyalaya National School.
+
+The name of my school is Kalutara maha Vidyalaya.
+
 <!--
 **KDRLaksika/KDRLaksika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
